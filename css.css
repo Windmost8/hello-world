@@ -1,0 +1,107 @@
+.menu {
+   background-color: white;
+   text-align: center;
+   padding: 8px;
+   font-weight: bold;
+   border-bottom-style: yellowgreen;
+   border-bottom-color: blue;
+   border-bottom-width: 4px
+ }
+
+#company_details {
+ background: lightskyblue;
+ padding: 8px;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ border: 1px solid black;
+}
+
+#company_address {
+ background: yellow;
+ padding: 8px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ border: 1px solid darkorange;
+}
+
+h1 {
+   background: powderblue;
+   padding: 10px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Lucida Grande', sans-serif;
+   border: 1px solid rgb(107, 189, 171);
+}
+
+h2 {
+   background: lightpink;
+   padding: 10px;
+   font-family: 'Times New Roman', 'Arial Narrow', Arial, sans-serif;
+   border: 1px solid dodgerblue;
+}
+
+h3 {
+ background: green;
+ padding: 8px;
+ border: 1px solid darkred;
+}
+
+img {
+ background: white;
+ padding: 8px;
+ border: 1px solid darkkhaki;
+}
+
+p {
+   background: purple;
+   padding: 20px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   border: 1px solid darkkhaki;
+}
+
+a {
+ color: blue;
+ font-weight: bold;
+}
+
+a:visited {
+ color: blue;
+}
+
+a:hover,
+a:active,
+a:focus {
+ color: darkblue;
+ text-decoration: none;
+}
+
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: lightskyblue;
+}
+
+li {
+ float: left;
+}
+
+li a {
+ display: block;
+ color: white;
+ text-align: center;
+ padding: 17px;
+ text-decoration: none;
+}
+
+li a:hover {
+ background-color: darkorange;
+}
+
+table
+{
+ background-color: lightsalmon;
+ border: 2px dashed yellowgreen;
+}
+
+td
+{
+ border: 2px dotted darkkhaki;
+}
