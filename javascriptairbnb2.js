@@ -1,5 +1,5 @@
 
-//lista med objekt som element som lagrar all data från airbnb.json. avslutas på rad 7156
+
 var hotel = [
  {
    "room_id": 12247489,
