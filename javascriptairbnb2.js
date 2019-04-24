@@ -1,5 +1,5 @@
 
-
+//airbnb data slutar på rad 7156
 var hotel = [
  {
    "room_id": 12247489,
